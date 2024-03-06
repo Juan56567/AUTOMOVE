@@ -1,0 +1,1 @@
+python automove.py
